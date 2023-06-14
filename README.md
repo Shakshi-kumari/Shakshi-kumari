@@ -25,7 +25,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=Shakshi-kumari ) -->
 
-![](https://komarev.com/ghpvc/?username=Shakshi-kumari &color=ff0000&label=Welcome,+Please+Come+In+Visitor) ![](https://hit.yhype.me/github/profile?user_id=43730425)<br>
+![](https://komarev.com/ghpvc/?username=Shakshi-kumari&color=ff0000&label=Welcome,+Please+Come+In+Visitor) ![](https://hit.yhype.me/github/profile?user_id=43730425)<br>
 
 ### I am a web developer
 
