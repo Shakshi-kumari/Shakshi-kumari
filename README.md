@@ -129,7 +129,7 @@ FACEBOOK LINK HERE
  <img src="https://github.com/Shakshi-kumari/Shakshi-kumari/blob/main/assets/circleprofile##" alt="" style="max-width: 100%;">
  <p align="right" dir="auto"> </p>
  <br>
-  <img src="https://github.com/Shakshi-kumari/Shakshi-kumari/blob/main/assets/footer2##" alt="" style="max-width: 100%;">
+  <img src="" alt="" style="max-width: 100%;">
 
  
  
