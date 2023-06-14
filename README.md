@@ -42,11 +42,9 @@
 
 INSTAGRAM LINK HERE
 <br>
-
 LINKEDIN LINK HERE
 <br>
 FACEBOOK LINK HERE
-
 <br>
 
 ### Languages & Technologies
