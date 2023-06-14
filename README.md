@@ -21,7 +21,7 @@
  3.
  <a href="">3.project 3</a><br>
 <br>
-<img align="right" alt="coding" width="250" src="">
+<img align="right" alt="" width="250" src="">
 
 <!-- ![](https://komarev.com/ghpvc/?username=Shakshi-kumari ) -->
 
@@ -29,8 +29,7 @@
 
 ### I am a web developer
 
-- 👨‍🏭 👨‍🏭 Passionately Pursuing B-Tech, eager for impactful internships. **CSE** <br>
-** <br>
+- 👨‍🏭 👨‍🏭 Passionately Pursuing B-Tech, eager for impactful internships. **CSE** <br> <br>
 
 <!-- Shakshi-kumari --> 
 <!-- hi -->
@@ -41,8 +40,11 @@
 
 <img width="26" src="https://github.com/Shakshi-kumari/Shakshi-kumari/blob/main/assets/like.png">
 
-[![Instagram Badge](https://img.shields.io/badge/-@#####-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/#####)](INSTAGRAM LINK HERE)
-[![Linkedin Badge](https://img.shields.io/badge/-Shakshi-kumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Shakshi-kumari/)](LINKEDIN LINK HERE)
+[![Instagram Badge](https://img.shields.io/badge/-@#####-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/#####)](INSTAGRAM LINK HER<E)
+<br>
+[
+![Linkedin Badge](https://img.shields.io/badge/-Shakshi-kumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Shakshi-kumari/)](LINKEDIN LINK HERE)
+<br>
 [![Facebook Badge](https://img.shields.io/badge/-######-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/######)](FACEBOOK LINK HERE)
 ![](https://komarev.com/ghpvc/?username=######&color=blue)
 
