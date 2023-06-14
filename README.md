@@ -126,7 +126,7 @@ FACEBOOK LINK HERE
 
 <a href="https://www.linkedin.com/in/Shakshi-kumari/">
 
- <img src="https://github.com/Shakshi-kumari/Shakshi-kumari/blob/main/assets/circleprofile##" alt="" style="max-width: 100%;">
+ <img src="" alt="" style="max-width: 100%;">
  <p align="right" dir="auto"> </p>
  <br>
   <img src="" alt="" style="max-width: 100%;">
