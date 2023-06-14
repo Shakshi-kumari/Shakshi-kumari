@@ -130,10 +130,10 @@
 
 <a href="https://www.linkedin.com/in/Shakshi-kumari/">
 
- <img src="https://github.com/Shakshi-kumari/Shakshi-kumari/blob/main/assets/circleprofile.png" alt="" style="max-width: 100%;">
- <p align="right" dir="auto">Last Update on: 13 Jan 2023 </p>
+ <img src="https://github.com/Shakshi-kumari/Shakshi-kumari/blob/main/assets/circleprofile##" alt="" style="max-width: 100%;">
+ <p align="right" dir="auto"> </p>
  <br>
-  <img src="https://github.com/Shakshi-kumari/Shakshi-kumari/blob/main/assets/footer2.png" alt="" style="max-width: 100%;">
+  <img src="https://github.com/Shakshi-kumari/Shakshi-kumari/blob/main/assets/footer2##" alt="" style="max-width: 100%;">
 
  
  
