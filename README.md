@@ -19,7 +19,7 @@
  <a href="Project 2 link"> Project 2 link</a></a>
  <br>
  3.
- <a href="">3.project 3</a><br>
+ <a href="">Project 3</a><br>
 <br>
 <img align="right" alt="" width="250" src="">
 
