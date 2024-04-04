@@ -9,19 +9,6 @@
 
 
  </center>
- 
- ## TOP NEW PROJECTS
- My Recent Projects: <br>
- 1.
- <a href="portfolio link"> Portfolio</a> Visit <a href='resume link'>My Resume</a>
- <br>
- 2.
- <a href="Project 2 link"> Project 2 link</a></a>
- <br>
- 3.
- <a href="">Project 3</a><br>
-<br>
-<img align="right" alt="" width="250" src="">
 
 <!-- ![](https://komarev.com/ghpvc/?username=Shakshi-kumari ) -->
 
@@ -39,13 +26,6 @@
 <hr/>
 
 <img width="26" src="https://github.com/Shakshi-kumari/Shakshi-kumari/blob/main/assets/like.png">
-
-INSTAGRAM LINK HERE
-<br>
-LINKEDIN LINK HERE
-<br>
-FACEBOOK LINK HERE
-<br>
 
 ### Languages & Technologies
 
