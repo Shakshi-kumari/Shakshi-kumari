@@ -21,12 +21,6 @@
 <!-- Shakshi-kumari --> 
 <!-- hi -->
 
-### Connect with me
-
-<hr/>
-
-<img width="26" src="https://github.com/Shakshi-kumari/Shakshi-kumari/blob/main/assets/like.png">
-
 ### Languages & Technologies
 
 <hr/>
